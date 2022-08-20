@@ -1,0 +1,2 @@
+{'Student Id': '00001', 'Name': 'John Doe', 'Gender': 'M', 'English': 80, 'Math': 90, 'Science': 87, 'Average': 85.67}
+{'Student Id': '00002', 'Name': 'Mary Potter', 'Gender': 'F', 'English': 90, 'Math': 83, 'Science': 71, 'Average': 81.33}
